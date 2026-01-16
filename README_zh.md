@@ -225,15 +225,17 @@ export class WatermarkEngine {
 
 **本软件按“原样”提供，不提供任何形式（无论是明示或暗示）的保证。在任何情况下，作者均不对因使用本软件而产生的任何索赔、损害或其他责任承担任何义务。**
 
-## 许可证
+## 致谢
 
-[MIT License](./LICENSE)
+本项目是 [Gemini Watermark Tool](https://github.com/allenk/GeminiWatermarkTool) 的 JavaScript 移植版本，原作者 Allen Kuo ([@allenk](https://github.com/allenk))
+
+反向 Alpha 混合算法和用于校准的水印图像基于原作者的工作 © 2024 AllenK (Kwyshell)，采用 MIT 许可证
 
 ## 相关链接
 
 - [Gemini Watermark Tool](https://github.com/allenk/GeminiWatermarkTool)
 - [算法原理说明](https://allenkuo.medium.com/removing-gemini-ai-watermarks-a-deep-dive-into-reverse-alpha-blending-bbbd83af2a3f)
 
-## 致谢
+## 许可证
 
-基于 [Gemini Watermark Tool](https://github.com/allenk/GeminiWatermarkTool) C++ 版本移植
+[MIT License](./LICENSE)
